@@ -15,6 +15,7 @@
 | `take out`    | Вывести заметку по ID             |
 | `take out all`| Вывести все сохранённые заметки   |
 | `exit`        | Выйти из программы                |
+| `clear`       | очистить лист                     |
 
 ## Запуск
 
@@ -39,4 +40,4 @@
 
 ---
 
-*Console Notepad v0.1 beta*
+*Console Notepad v0.2 beta*
